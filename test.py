@@ -1,3 +1,6 @@
+# Henry Oloan Tagor Harahap
+# 065002400006
+
 def selisih_waktu(jam1, menit1, jam2, menit2):
     if menit1 < menit2:
         menit2 += 60
